@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Water Outage",
+    "message": "The water supply will be temporarily interrupted on July 1st, 2024, from 10 AM to 2 PM due to maintenance work. We apologize for any inconvenience this may cause and appreciate your understanding.",
+    "date": "2024-07-01"
+  },
+  {
+    "id": 2,
+    "title": "Elevator Maintenance",
+    "message": "Dear residents, please be informed that elevator maintenance is scheduled for July 2nd, 2024. During this period, elevator service will be temporarily unavailable. We kindly ask for your cooperation and apologize for any inconvenience caused.",
+    "date": "2024-07-02"
+  },
+  {
+    "id": 3,
+    "title": "Fire Drill",
+    "message": "To ensure the safety of all residents, a fire drill will be conducted on July 5th, 2024, at 3 PM. Please be advised that this is a routine exercise aimed at preparing our community for emergencies. Your participation and cooperation are appreciated.",
+    "date": "2024-07-05"
+  },
+  {
+    "id": 4,
+    "title": "Pool Closure",
+    "message": "Please be informed that the pool will be closed for cleaning on July 7th, 2024. The closure is necessary to maintain hygiene standards and ensure a pleasant swimming experience for all residents. We apologize for any inconvenience caused and appreciate your patience.",
+    "date": "2024-07-07"
+  },
+  {
+    "id": 5,
+    "title": "Gym Renovation",
+    "message": "We are excited to announce that the gym will undergo renovations from July 10th to July 20th, 2024. The renovation aims to enhance facilities and improve your fitness experience. We apologize for any inconvenience caused during this period and appreciate your understanding.",
+    "date": "2024-07-10"
+  },
+  {
+    "id": 6,
+    "title": "Parking Lot Resurfacing",
+    "message": "Dear residents, please note that the parking lot will undergo resurfacing work on July 15th, 2024. This improvement is aimed at ensuring safer and more efficient parking facilities. We apologize for any inconvenience caused and appreciate your cooperation during this time.",
+    "date": "2024-07-15"
+  },
+  {
+    "id": 7,
+    "title": "Window Cleaning",
+    "message": "Attention residents, window cleaning is scheduled for July 18th, 2024. This maintenance activity is essential to maintain the cleanliness and appearance of our building. We appreciate your understanding and cooperation during this time.",
+    "date": "2024-07-18"
+  },
+  {
+    "id": 8,
+    "title": "Annual Meeting",
+    "message": "We cordially invite all residents to attend our annual meeting on July 25th, 2024, at 6 PM. This meeting provides an opportunity to discuss community matters, review past activities, and plan for the future. Your participation and input are highly valued.",
+    "date": "2024-07-25"
+  },
+  {
+    "id": 9,
+    "title": "Landscape Maintenance",
+    "message": "Dear residents, landscape maintenance is scheduled for July 27th, 2024. This routine upkeep ensures our community grounds remain beautiful and well-maintained. We appreciate your cooperation and understanding during this time.",
+    "date": "2024-07-27"
+  },
+  {
+    "id": 10,
+    "title": "Holiday Celebration",
+    "message": "Join us for a holiday celebration on July 30th, 2024, at 5 PM. This festive event is an opportunity for our community to come together, celebrate, and enjoy each other's company. We look forward to seeing you there!",
+    "date": "2024-07-30"
+  }
+]
