@@ -3,7 +3,7 @@
     <header>
       <h1>Stockholm Student Housing Management Center</h1>
       <nav>
-        <router-link to="/">NOTICATIONS</router-link>
+        <router-link to="/">NOTIFICATIONS</router-link>
         <router-link to="/submit-issue">CONTACT US</router-link>
       </nav>
     </header>
@@ -25,13 +25,13 @@ export default {
 <style>
 
 h2 {
-  color: #064a88; /* 设置深蓝色 */
+  color: #064a88; /* Deep Blue */
 }
 
-  /* 全局样式 */
-  body {
-    background-color: #edf2f6; /* 设置页面背景颜色 */
-  }
+/* Global Styles */
+body {
+  background-color: #edf2f6; /* Set page background color */
+}
 
 #app {
   font-family: Arial, sans-serif;
@@ -44,9 +44,8 @@ header {
   background-color: #064a88;
   color: #fff;
   padding: 1rem;
-  font-weight: bold; /* 设置字体加粗 */
+  font-weight: bold; /* Set font weight to bold */
 }
-
 
 nav {
   display: flex;
@@ -72,7 +71,4 @@ main {
 footer {
   background-color: #064a88;
   color: #fff;
-  text-align: center;
-  padding: 0.5rem;
-}
-</style>
+  te
